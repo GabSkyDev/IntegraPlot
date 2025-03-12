@@ -4,19 +4,19 @@ O **IntegraPlot** é uma aplicação gráfica desenvolvida em C# com .NET e Wind
 
 ## Linguagens e Frameworks
 
-# C#
-# NET
-# Windows Forms
+### C#
+### NET
+### Windows Forms
 
 ## Bibliotecas
 
-# ScottPlot
-# NCalc
+### ScottPlot
+### NCalc
 
-### Controle de Versão
+## Controle de Versão
 
-# Git
-# GitHub
+### Git
+### GitHub
 
 ## Funcionalidades
 
@@ -42,16 +42,16 @@ Ao inserir funções no programa, **siga estritamente o formato abaixo**:
 - Use `*` para multiplicação. Exemplo: `3*x` (não use `3x`).
 - Use `^` para exponenciação. Exemplo: `x^2` (não use `x²`).
 - Use parênteses para agrupamento. Exemplo: `(x + 2) * 3`.
-- Para funções trigonométricas, como `sin(x)`, `cos(x)`, `tan(x)`. Utilize os botões exibidos na tela.
+- Para funções trigonométricas e simbolos matemáticos, como `sin(x)`, `cos(x)`, `tan(x)`, `π`. Utilize os botões exibidos na tela.
 
 
 ## Imagens da Interface Gráfica
 
-# Tela de inserção de dados
+### Tela de inserção de dados
 
 ![image](https://github.com/user-attachments/assets/e6cf946d-2ec6-4618-a812-5def5bae35e6)
 
-# Tela de exibição de resultado e gráfico
+### Tela de exibição de resultado e gráfico
 
 ![image](https://github.com/user-attachments/assets/80201565-e829-4807-88a8-fbb0ca0dda09)
 
