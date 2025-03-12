@@ -4,19 +4,19 @@ O **IntegraPlot** é uma aplicação gráfica desenvolvida em C# com .NET e Wind
 
 ## Linguagens e Frameworks
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+# C#
+# NET
+# Windows Forms
 
 ## Bibliotecas
 
-![ScottPlot](https://img.shields.io/badge/ScottPlot-FF6F00?style=for-the-badge&logo=plotly&logoColor=white)
-![NCalc](https://img.shields.io/badge/NCalc-2.0.0-blue?logo=.net&logoColor=white)
+# ScottPlot
+# NCalc
 
 ### Controle de Versão
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+# Git
+# GitHub
 
 ## Funcionalidades
 
@@ -43,3 +43,16 @@ Ao inserir funções no programa, **siga estritamente o formato abaixo**:
 - Use `^` para exponenciação. Exemplo: `x^2` (não use `x²`).
 - Use parênteses para agrupamento. Exemplo: `(x + 2) * 3`.
 - Para funções trigonométricas, como `sin(x)`, `cos(x)`, `tan(x)`. Utilize os botões exibidos na tela.
+
+
+## Imagens da Interface Gráfica
+
+# Tela de inserção de dados
+
+![image](https://github.com/user-attachments/assets/e6cf946d-2ec6-4618-a812-5def5bae35e6)
+
+# Tela de exibição de resultado e gráfico
+
+![image](https://github.com/user-attachments/assets/80201565-e829-4807-88a8-fbb0ca0dda09)
+
+
